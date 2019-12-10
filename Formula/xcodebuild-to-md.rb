@@ -10,7 +10,7 @@ class XcodebuildToMd < Formula
   head "https://github.com/davidahouse/xcodebuild-to-md.git"
 
   # depends_on "cmake" => :build
-  depends_on :xcode => ["10.0", :build]
+  depends_on :xcode => ["11.3", :build]
 
   def install
     system "make", "install", "prefix=#{prefix}"
