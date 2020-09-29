@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class XcodebuildToMd < Formula
+class XcodebuildToJson < Formula
   desc "XCResult converter to simple json"
   homepage "https://github.com/davidahouse/xcodebuild-to-json"
   url "https://github.com/davidahouse/xcodebuild-to-json.git",
