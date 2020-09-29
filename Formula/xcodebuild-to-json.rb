@@ -5,8 +5,8 @@ class XcodebuildToMd < Formula
   desc "XCResult converter to simple json"
   homepage "https://github.com/davidahouse/xcodebuild-to-json"
   url "https://github.com/davidahouse/xcodebuild-to-json.git",
-      :tag      => "v0.1.0",
-      :revision => "74c4237d76970e9f3ee87762705d42ef9895d782"
+      :tag      => "v0.2.0",
+      :revision => "53da45855ca5cdbcb6a7c7400336faee90c9f36e"
   head "https://github.com/davidahouse/xcodebuild-to-json.git"
 
   # depends_on "cmake" => :build
