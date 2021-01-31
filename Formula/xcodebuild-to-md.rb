@@ -5,8 +5,8 @@ class XcodebuildToMd < Formula
   desc "XCResult converter to markdown"
   homepage "https://github.com/davidahouse/xcodebuild-to-md"
   url "https://github.com/davidahouse/xcodebuild-to-md.git",
-      :tag      => "v0.3.1",
-      :revision => "187fc508dc01cb5a22ccc4346a599a2ff83add70"
+      :tag      => "v0.4.0",
+      :revision => "f53b9f0515edad834604dd8521dff58d6b1f380f"
   head "https://github.com/davidahouse/xcodebuild-to-md.git"
 
   # depends_on "cmake" => :build
